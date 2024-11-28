@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Abdur Rahman Hriday 👋
 
-<!--
-**HRIDAY-CSE/HRIDAY-CSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Aspiring Full-Stack Developer | Lifelong Learner 🚀
 
-Here are some ideas to get you started:
+- 💻 I’m currently learning: MS-SQL, C#, ASP.NET Core, MVC, and API Development.
+- 🔧 I work with: HTML, CSS, JavaScript, jQuery, and modern backend technologies.
+- 🎯 My goal is to become a skilled developer and build impactful software solutions.
+---
+### 🛠️ My Skill Set
+**Languages & Tools:**
+- **Languages:** C#, JavaScript, HTML5, CSS3
+- **Frameworks:** ASP.NET Core, MVC, Entity Framework
+- **Databases:** MS-SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 My Projects
+Check out my pinned repositories for:
+- 🛒 **E-Commerce Platform**
+- 💬 **Real-Time Chat Application**
+- 📋 **Task Manager Application**
+---
+### 💬 Let's Connect!
+- 📫 **Email**: abdurrahman.net208@gmail.com
+- 💼 **LinkedIn: https://www.linkedin.com/in/abdur-rahman-763493318/
