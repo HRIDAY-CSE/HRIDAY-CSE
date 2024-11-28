@@ -1,24 +1,13 @@
-# Hi there, I'm Abdur Rahman Hriday 👋
-## Welcome to my GitHub profile! I'm an enthusiastic programmer on a journey to master modern web technologies and build impactful software solutions.
+### Hi there 👋, Abdur Rahman Hriday 
+#### Web Developer | C# | ASP.NET Core | MVC Architect
+Hi, I'm Abdur Rahman Hridoy, a passionate Computer Science and Engineering student with a strong focus on Web Development, Backend Programming, and Database Management. I enjoy building dynamic, interactive web applications using HTML, CSS, JavaScript,  Asp .Net ,MvC .  Currently, I am working on a variety of projects, including e-commerce platforms, chat applications, and student management systems. I am constantly exploring new technologies to sharpen my skills and solve real-world problems.  Feel free to explore my repositories and collaborate on exciting projects!
 
-### 🌟 Aspiring Full-Stack Developer | Lifelong Learner 🚀
+Skills: *Languages:** C#, JavaScript, HTML5, CSS3 - **Frameworks:** ASP.NET Core, MVC, Entity Framework - **Databases:** MS-SQL Server
 
-- 💻 I’m currently learning: MS-SQL, C#, ASP.NET Core, MVC, and API Development.
-- 🔧 I work with: HTML, CSS, JavaScript, jQuery, and modern backend technologies.
-- 🎯 My goal is to become a skilled developer and build impactful software solutions.
----
-### 🛠️ My Skill Set
-**Languages & Tools:**
-- **Languages:** C#, JavaScript, HTML5, CSS3
-- **Frameworks:** ASP.NET Core, MVC, Entity Framework
-- **Databases:** MS-SQL Server
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning : MS-SQL, C#, ASP.NET Core, MVC, and API Development. 
+- 👯 I’m looking to collaborate on github 
 
-### 📚 My Projects
-Check out my pinned repositories for:
-- 🛒 **E-Commerce Platform**
-- 💬 **Real-Time Chat Application**
-- 📋 **Task Manager Application**
----
-### 💬 Let's Connect!
-- 📫 **Email**: abdurrahman.net208@gmail.com
-- 💼 **LinkedIn: https://www.linkedin.com/in/abdur-rahman-763493318/
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HRIDAY-CSE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdur rahman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/abdur rahman)  
+
