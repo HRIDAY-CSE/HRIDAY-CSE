@@ -1,4 +1,5 @@
 # Hi there, I'm Abdur Rahman Hriday 👋
+## Welcome to my GitHub profile! I'm an enthusiastic programmer on a journey to master modern web technologies and build impactful software solutions.
 
 ### 🌟 Aspiring Full-Stack Developer | Lifelong Learner 🚀
 
