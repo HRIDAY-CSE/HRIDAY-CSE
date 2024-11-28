@@ -1,4 +1,4 @@
-# Hi there 👋, Abdur Rahman Hriday 
+# Hi there, I'm Abdur Rahman Hriday 👋
 ## Web Developer | C# | ASP.NET Core | MVC Architect
 ### Hi, I'm Abdur Rahman Hridoy, a passionate Computer Science and Engineering student with a strong focus on Web Development, Backend Programming, and Database Management. I enjoy building dynamic, interactive web applications using HTML, CSS, JavaScript,  Asp .Net ,MvC .  Currently, I am working on a variety of projects, including e-commerce platforms, chat applications, and student management systems. I am constantly exploring new technologies to sharpen my skills and solve real-world problems.  Feel free to explore my repositories and collaborate on exciting projects!
 
