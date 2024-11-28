@@ -21,7 +21,5 @@
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/HRIDAY-CSE/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/HRIDAY-CSE)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=HRIDAY-CSE)  
 
